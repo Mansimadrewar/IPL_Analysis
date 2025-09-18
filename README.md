@@ -26,8 +26,4 @@ It focuses on understanding trends in matches, teams, and player performances th
   - Matplotlib
   - Seaborn
   - Plotly
-- **Jupyter Notebook**
-
----
-
-## 📂 Repository Structure
+  
